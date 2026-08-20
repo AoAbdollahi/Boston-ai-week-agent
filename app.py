@@ -57,9 +57,9 @@ def load_and_parse_ics(file_path):
 
 encoder = load_encoder()
 try:
-    all_events = load_and_parse_ics("boston-ai-week-2026-2026-08-20_2.ics")
+    all_events = load_and_parse_ics("boston-ai-week-2026-2026-08-20.ics")
 except FileNotFoundError:
-    st.error("Error: Make sure 'boston-ai-week-2026-2026-08-20_2.ics' is in the repository.")
+    st.error("Error: Make sure 'boston-ai-week-2026-2026-08-20.ics' is in the repository.")
     st.stop()
 
 # ==========================================
