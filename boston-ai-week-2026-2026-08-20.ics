@@ -1,0 +1,2877 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aiweek.boston//Schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boston AI Week 2026 — Schedule
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:enterprise-ai-mind-the-gap-a-talk-on-intelligence-applications-at-scale-by-ai-pr@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260824T180000
+DTEND;TZID=America/New_York:20260824T190000
+SUMMARY:Enterprise AI: Mind the gap! A talk on intelligence applications 
+ at scale by AI practitioners!
+DESCRIPTION:There is a gap between data and decisions in most enterprises
+ . To bridge this gap\, you need to set up a factory that produces intelli
+ gence at scale. The factory runs on a framework recognized by IDC\, Gartn
+ er\, and Google. ICUPP: Infrastructure\, Collection\, Unification\, Proce
+ ssing\, and Presentation of
+LOCATION:Findability Sciences Office at Workbar Burlington\n100 Summit Dr
+ \, Ste 917\, Burlington\, MA 01880\n3rd floor in the building\, 100 Summi
+ t Dr\, Ste 917\, Burlington\, MA 01880
+URL:https://aiweek.boston/schedule/enterprise-ai-mind-the-gap-a-talk-on-i
+ ntelligence-applications-at-scale-by-ai-pr
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Enterprise AI: Mind the gap! A talk on intelligence applicati
+ ons at scale by AI practitioners!
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Enterprise AI: Mind the gap! A talk on intelligence applicati
+ ons at scale by AI practitioners!
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boston-ai-week-meets-the-world@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260916T110000
+DTEND;TZID=America/New_York:20260916T130000
+SUMMARY:Boston AI Week Meets the World
+DESCRIPTION:Representatives from 18 countries spend the morning with the 
+ Boston AI Week Board of Directors. Private\, invitation-only session.
+LOCATION:Asylum Colab\, Causeway Street\, Boston\, MA (North Station)
+URL:https://aiweek.boston/schedule/boston-ai-week-meets-the-world
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boston AI Week Meets the World
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boston AI Week Meets the World
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-in-medical-education-administration-whats-changing-and-how-to-prepare@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260917T160000
+DTEND;TZID=America/New_York:20260917T170000
+SUMMARY:AI in Medical Education Administration: What’s Changing and How t
+ o Prepare
+DESCRIPTION:AI in Medical Education Administration: What’s Changing and H
+ ow to Prepare\n\nArtificial intelligence is rapidly changing the way medi
+ cal education administrators work. From drafting policies and communicati
+ ons to managing data\, supporting accreditation\, preparing presentations
+ \, and improving day-to-d
+LOCATION:https://docs.google.com/forms/d/e/1FAIpQLScZa_kFZQbUWB5tfUHWk9Dr
+ fmujeJnKe0H13Wx337dUhWhQig/viewform?usp=publish-editor
+URL:https://aiweek.boston/schedule/ai-in-medical-education-administration
+ -whats-changing-and-how-to-prepare
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI in Medical Education Administration: What’s Changing and H
+ ow to Prepare
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI in Medical Education Administration: What’s Changing and H
+ ow to Prepare
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:science-of-scaling-hubspot-case-hbs-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260917T170000
+DTEND;TZID=America/New_York:20260917T191000
+SUMMARY:The Science of Scaling: Inside the HubSpot Case
+DESCRIPTION:Application only. An intimate Harvard Business School case di
+ scussion on HubSpot's early growth\, hosted by Stage 2 Capital with Mark 
+ Roberge.
+LOCATION:Harvard Business School\, Harvard Business School\, Boston\, MA
+URL:https://aiweek.boston/schedule/science-of-scaling-hubspot-case-hbs-20
+ 26
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Science of Scaling: Inside the HubSpot Case
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Science of Scaling: Inside the HubSpot Case
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:building-the-ai-powered-go-to-market-engine@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260918T083000
+DTEND;TZID=America/New_York:20260918T113000
+SUMMARY:Building the AI-Powered Go-To-Market Engine
+DESCRIPTION:As AI advances and buyer behavior evolves\, the traditional g
+ o-to-market model is being replaced by connected revenue engines that spa
+ n the entire customer lifecycle from pipeline generation to expansion and
+  retention.\n\n​Top-performing marketing and revenue teams are moving bey
+ ond manual workflows an
+LOCATION:99 High Street\, Boston\, MA\, 99 High Street\, Boston\, MA
+URL:https://aiweek.boston/schedule/building-the-ai-powered-go-to-market-e
+ ngine
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Building the AI-Powered Go-To-Market Engine
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Building the AI-Powered Go-To-Market Engine
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-assistant-training@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260922T110000
+DTEND;TZID=America/New_York:20260922T130000
+SUMMARY:AI Assistant Training
+DESCRIPTION:Build an AI Assistant Made for Your Organization\n\nGeneric A
+ I can answer questions\, but it doesn't know your organization's language
+ \, goals\, processes\, or rules. That's why so many AI assistants produce
+  inconsistent or generic responses.\nIn this free\, live workshop\, you'l
+ l learn how to build an enter
+LOCATION:https://us06web.zoom.us/j/85612353329
+URL:https://aiweek.boston/schedule/ai-assistant-training
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI Assistant Training
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI Assistant Training
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-in-ma-and-financing-workbar-needham-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260922T171500
+DTEND;TZID=America/New_York:20260922T180000
+SUMMARY:AI and the Changing World of M&A
+DESCRIPTION:A panel on the AI tools\, trends\, and terms transforming the
+  M&A process.
+LOCATION:Workbar Needham\, 117 Kendrick Street\, Suite 300\, Needham\, MA
+  02494
+URL:https://aiweek.boston/schedule/ai-in-ma-and-financing-workbar-needham
+ -2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI and the Changing World of M&A
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI and the Changing World of M&A
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-entrepreneurial-finance-workbar-needham-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260922T181500
+DTEND;TZID=America/New_York:20260922T190000
+SUMMARY:AI: Trends and Developments in Entrepreneurial Finance
+DESCRIPTION:How financing strategies for growth companies are being shape
+ d and transformed by innovation and AI.
+LOCATION:Workbar Needham\, 117 Kendrick Street\, Suite 300\, Needham\, MA
+  02494
+URL:https://aiweek.boston/schedule/ai-entrepreneurial-finance-workbar-nee
+ dham-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI: Trends and Developments in Entrepreneurial Finance
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI: Trends and Developments in Entrepreneurial Finance
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:networking-connection-workbar-needham-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260922T190000
+DTEND;TZID=America/New_York:20260922T193000
+SUMMARY:Networking & Connection at Workbar Needham
+DESCRIPTION:A half-hour reception closing out the evening of AI panels at
+  Workbar Needham.
+LOCATION:Workbar Needham\, 117 Kendrick Street\, Suite 300\, Needham\, MA
+  02494
+URL:https://aiweek.boston/schedule/networking-connection-workbar-needham-
+ 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Networking & Connection at Workbar Needham
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Networking & Connection at Workbar Needham
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-for-all-britebound-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260923T090000
+DTEND;TZID=America/New_York:20260923T140000
+SUMMARY:AI for All
+DESCRIPTION:Practical AI for nonprofits and mission-driven organizations.
+LOCATION:Britebound\, 33 Arch Street\, Suite 2100\, Boston\, MA 02110
+URL:https://aiweek.boston/schedule/ai-for-all-britebound-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI for All
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI for All
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-week-keynote-how-ai-startups-will-reshape-bostons-future@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260923T110000
+DTEND;TZID=America/New_York:20260923T120000
+SUMMARY:AI Week Keynote: How AI Startups Will Reshape Boston's Future
+DESCRIPTION:Doug Levin\, founder and CEO of Black Duck Software\, on what
+  makes AI-native startups distinct and the opportunities ahead for Boston
+ .
+LOCATION:Greater Boston — venue TBA\, Boston\, MA
+URL:https://aiweek.boston/schedule/ai-week-keynote-how-ai-startups-will-r
+ eshape-bostons-future
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI Week Keynote: How AI Startups Will Reshape Boston's Future
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI Week Keynote: How AI Startups Will Reshape Boston's Future
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boston-ai-executive-exchange-executive-dinner-and-roundtable@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260923T173000
+DTEND;TZID=America/New_York:20260923T200000
+SUMMARY:Boston AI Executive Exchange - Executive Dinner and Roundtable
+DESCRIPTION:Hosted by The TeamShield Group in partnership with the Legacy
+  Club of Boston\, and proudly sponsored at the Platinum level by Cisco\, 
+ this private\, invite-only gathering brings together senior public sector
+  and education leaders for thoughtful discussions on the future of artifi
+ cial intelligence. The 
+LOCATION:https://www.legacyclub.boston/\nPrivate Members-Only Business & 
+ Social Club founded by Cleon Daskalakis (Former Bruins Player)\nInspired 
+ by Our Predecessors' Legacies\, Built by Our Members Achievements.\n"May 
+ the foundation we now build\, withstand the test of time\, and may the ge
+ nerations that follow benefit from what we leave behind!\, 180 Canal St\,
+  5th floor\,  Boston\, MA 02114
+URL:https://aiweek.boston/schedule/boston-ai-executive-exchange-executive
+ -dinner-and-roundtable
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boston AI Executive Exchange - Executive Dinner and Roundtabl
+ e
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boston AI Executive Exchange - Executive Dinner and Roundtabl
+ e
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:devconf-us-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260924T090000
+DTEND;TZID=America/New_York:20260925T170000
+SUMMARY:DevConf US 2026
+DESCRIPTION:DevConf.US is a free\, Red Hat–sponsored community conference
+  for contributors to free and open source technologies\, returning to Bos
+ ton University for 2026. Two days of talks\, lightning talks\, and worksh
+ ops spanning AI and machine learning\, cloud infrastructure\, application
+  development\, DevOps\, secu
+LOCATION:Boston University Wheelock College of Education & Human Developm
+ ent – Brookline Campus\, 43 Hawes Street\, Brookline\, MA 02446\, 43 Hawe
+ s Street\, Brookline\, MA 02446
+URL:https://aiweek.boston/schedule/devconf-us-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:DevConf US 2026
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:DevConf US 2026
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:how-our-ai-navigator-has-supported-success-in-developing-healthier-happier-peopl@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260924T103000
+DTEND;TZID=America/New_York:20260924T113000
+SUMMARY:How Our AI Navigator Has Supported Success in Developing Healthie
+ r & Happier People\, Leaders and Organizations
+DESCRIPTION:Members of Core Coaching & Consulting\, LLC will demonstrate 
+ the progress we've made over the past year on our Six Powers Compass Navi
+ gator (the NAV) and the Organizational Health Profile (OHP). We will demo
+ nstrate the NAV and show a sample OHP report. We will also reveal data fr
+ om a recent business 
+LOCATION:Conference room - Hogsmeade Room at 245 Main\, Cambridge.\nSpace
+  is limited. Both in-person attendees and Remote attendees must register 
+ in advance.\, CIC Cambridge\, 245 Main Street\, Cambridge
+URL:https://aiweek.boston/schedule/how-our-ai-navigator-has-supported-suc
+ cess-in-developing-healthier-happier-peopl
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:How Our AI Navigator Has Supported Success in Developing Heal
+ thier & Happier People\, Leaders and Organizations
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:How Our AI Navigator Has Supported Success in Developing Heal
+ thier & Happier People\, Leaders and Organizations
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boat-rides-boston-harbor-captain-chris-2026-09-24@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260924T120000
+DTEND;TZID=America/New_York:20260924T130000
+SUMMARY:Boat Rides of Boston Harbor with Captain Chris
+DESCRIPTION:Time: TBA · Fan Pier · Very limited availability — RSVP to be
+  considered.
+LOCATION:Fan Pier\, Fan Pier\, Boston\, MA
+URL:https://aiweek.boston/schedule/boat-rides-boston-harbor-captain-chris
+ -2026-09-24
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boat Rides of Boston Harbor with Captain Chris
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boat Rides of Boston Harbor with Captain Chris
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boston-cloud-connect-summit@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260924T133000
+DTEND;TZID=America/New_York:20260924T183000
+SUMMARY:Boston Cloud Connect Summit
+DESCRIPTION:Cloud Connect Summit is a half-day IT leadership event that b
+ rings together CIOs\, CEOs\, CFOs\, CISOs\, IT directors\, system adminis
+ trators\, IT practitioners and security professionals for expert-led sess
+ ions on cybersecurity\, AI\, and the future of enterprise networks\, foll
+ owed by a networking receptio
+LOCATION:WGBH Studio's Yawkey Theater\, 1 Guest Street\, Boston\, MA
+URL:https://aiweek.boston/schedule/boston-cloud-connect-summit
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boston Cloud Connect Summit
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boston Cloud Connect Summit
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b2b-tech-oktoberfest@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260924T173000
+DTEND;TZID=America/New_York:20260924T193000
+SUMMARY:B2B Tech Oktoberfest
+DESCRIPTION:Calling all founders\, mentors\, and investors in the Boston 
+ startup community. Join us at Venture Lane for an evening of Oktoberfest 
+ festivities.\n\nCome dressed in your best lederhosen or dirndl and enjoy 
+ German beer\, traditional food\, and great conversation with the people b
+ uilding Boston's startup s
+LOCATION:Venture Lane | Startup Hub\, 55 Court Street\, Floor 2\, Boston\
+ , MA 02108
+URL:https://aiweek.boston/schedule/b2b-tech-oktoberfest
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:B2B Tech Oktoberfest
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:B2B Tech Oktoberfest
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:vizit-fireside-questrom-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260924T180000
+DTEND;TZID=America/New_York:20260924T200000
+SUMMARY:Seeing What Consumers See: AI\, Visual Intelligence\, and the Fut
+ ure of Consumer Behavior
+DESCRIPTION:Fireside chat with Vizit founder Jehan Hamedi and Questrom In
+ terim Dean Marcel Rindisbacher on AI\, visual intelligence\, and consumer
+  behavior.
+LOCATION:Hariri Auditorium\, BU Questrom School of Business\, 595 Commonw
+ ealth Ave\, Boston\, MA 02215
+URL:https://aiweek.boston/schedule/vizit-fireside-questrom-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Seeing What Consumers See: AI\, Visual Intelligence\, and the
+  Future of Consumer Behavior
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Seeing What Consumers See: AI\, Visual Intelligence\, and the
+  Future of Consumer Behavior
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-human-edge-women-leading-in-the-age-of-ai@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260924T180000
+DTEND;TZID=America/New_York:20260924T210000
+SUMMARY:The Human Edge: Women Leading in the Age of AI
+DESCRIPTION:One year ago\, Women Applying AI launched in Boston with a si
+ mple conviction: women are half of humanity\, and we have both the respon
+ sibility and the opportunity to shape how AI transforms our work\, our li
+ ves\, and our world.\n\n​We’re coming back together during Boston AI Week
+  2026 to celebrate how far
+LOCATION:Mass Challenge\, 10 Fan Pier Blvd\, Third Floor\, Boston\, MA 02
+ 210
+URL:https://aiweek.boston/schedule/the-human-edge-women-leading-in-the-ag
+ e-of-ai
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Human Edge: Women Leading in the Age of AI
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Human Edge: Women Leading in the Age of AI
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:your-ai-chatbot-is-live-now-what@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260924T221000
+DTEND;TZID=America/New_York:20260925T221000
+SUMMARY:Your AI chatbot is live: now what?
+DESCRIPTION:Once an AI chatbot is launched\, the heavy lifting begins. In
+  this panel\, we will hear from a few product leaders that have launched 
+ production chatbots and then went beyond the MVP to deliver a robust and 
+ consistent customer experience. Hear about the regressions\, guardrails\,
+  privacy\, evals and more
+LOCATION:TBD\, TBD
+URL:https://aiweek.boston/schedule/your-ai-chatbot-is-live-now-what
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Your AI chatbot is live: now what?
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Your AI chatbot is live: now what?
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pmi-project-leadership-summit-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260925T080000
+DTEND;TZID=America/New_York:20260925T170000
+SUMMARY:Project Leadership Summit 2026
+DESCRIPTION:PMI Mass Bay's full-day Project Leadership Summit on AI\, inn
+ ovation\, and the future of project work — Friday\, Sept 25\, 2026 at Alo
+ ft Boston Seaport District. Boston AI Week attendees save 20%.
+LOCATION:Aloft by Marriott Boston Seaport District\, 401-403 D St\, Bosto
+ n\, MA 02210
+URL:https://aiweek.boston/schedule/pmi-project-leadership-summit-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Project Leadership Summit 2026
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Project Leadership Summit 2026
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:human-centric-ai-summit-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260925T090000
+DTEND;TZID=America/New_York:20260925T140000
+SUMMARY:Human-Centric AI Summit: Shaping the Future of Equitable Healthca
+ re
+DESCRIPTION:Balancing AI innovation with equitable\, patient-centered gov
+ ernance across MA healthcare\, public health\, and human services.
+LOCATION:MIT Media Lab\, 75 Amherst St\, Cambridge\, MA 02142
+URL:https://aiweek.boston/schedule/human-centric-ai-summit-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Human-Centric AI Summit: Shaping the Future of Equitable Heal
+ thcare
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Human-Centric AI Summit: Shaping the Future of Equitable Heal
+ thcare
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:agentic-world-cup-boston-build-ai-agents-that-play-soccer@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260925T090000
+DTEND;TZID=America/New_York:20260925T130000
+SUMMARY:Agentic World Cup Boston: Build AI Agents That Play Soccer
+DESCRIPTION:We propose a half-day Agentic Football Cup hackathon during B
+ oston AI Week 2026 — a proven\, globally-run AWS workshop (100+ events\, 
+ rated 4.8/5) where participants build a squad of five autonomous AI agent
+ s using Amazon Bedrock AgentCore and the Strands Agents SDK\, then compet
+ e in live 5v5 AI footba
+LOCATION:Amazon BOS17 office building.\, 27 Melcher St\, Boston\, MA 0221
+ 0
+URL:https://aiweek.boston/schedule/agentic-world-cup-boston-build-ai-agen
+ ts-that-play-soccer
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Agentic World Cup Boston: Build AI Agents That Play Soccer
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Agentic World Cup Boston: Build AI Agents That Play Soccer
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-in-mechanical-engineering-and-manufacturing@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260925T100000
+DTEND;TZID=America/New_York:20260925T160000
+SUMMARY:AI in Mechanical Engineering and Manufacturing
+DESCRIPTION:Let's figure out how to best use AI in mechanical engineering
+  and manufacturing!  There a lot of promise and the field is moving fast.
+   If you're an engineering practitioner experimenting with AI\, we invite
+  you to come share your experiences and learnings and hear from your peer
+ s.  We'll all leave w
+LOCATION:PTC\, 121 Seaport Blvd\, Boston\, MA 02210\, Floor 3
+URL:https://aiweek.boston/schedule/ai-in-mechanical-engineering-and-manuf
+ acturing
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI in Mechanical Engineering and Manufacturing
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI in Mechanical Engineering and Manufacturing
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boat-rides-boston-harbor-captain-chris-2026-09-25@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260925T120000
+DTEND;TZID=America/New_York:20260925T130000
+SUMMARY:Boat Rides of Boston Harbor with Captain Chris
+DESCRIPTION:Time: TBA · Fan Pier · Very limited availability — RSVP to be
+  considered.
+LOCATION:Fan Pier\, Fan Pier\, Boston\, MA
+URL:https://aiweek.boston/schedule/boat-rides-boston-harbor-captain-chris
+ -2026-09-25
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boat Rides of Boston Harbor with Captain Chris
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boat Rides of Boston Harbor with Captain Chris
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:custom-software-at-business-speed-from-operator-requirement-to-governed-prototyp@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260925T120000
+DTEND;TZID=America/New_York:20260925T124500
+SUMMARY:Custom Software at Business Speed: From Operator Requirement to G
+ overned Prototype
+DESCRIPTION:Marketing and program teams often know exactly what a workflo
+ w\, customer experience\, or internal tool needs to do\, but translating 
+ that requirement into working software can take weeks of handoffs.\n\nThi
+ s 45-minute practitioner-led virtual session shows how AI-assisted delive
+ ry can turn bounded busin
+LOCATION:https://www.linkedin.com/events/7486846745281339393/
+URL:https://aiweek.boston/schedule/custom-software-at-business-speed-from
+ -operator-requirement-to-governed-prototyp
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Custom Software at Business Speed: From Operator Requirement 
+ to Governed Prototype
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Custom Software at Business Speed: From Operator Requirement 
+ to Governed Prototype
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:show-me-something-cool-with-ai@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260925T130000
+DTEND;TZID=America/New_York:20260925T140000
+SUMMARY:Show Me Something Cool With AI
+DESCRIPTION:If you are feeling a little overwhelmed by the constant flood
+  of breathless AI news\, join the club. It feels like every day there is 
+ a new tool we are all supposed to master by yesterday.\n\n​"Show Me Somet
+ hing Cool With AI" is our antidote to that overwhelming feeling.\n\n​This
+  is a casual\, monthly gat
+LOCATION:https://luma.com/wq8dqahi
+URL:https://aiweek.boston/schedule/show-me-something-cool-with-ai
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Show Me Something Cool With AI
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Show Me Something Cool With AI
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boston-ai-week-opening-party@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260925T180000
+DTEND;TZID=America/New_York:20260925T230000
+SUMMARY:Boston AI Week Opening Party
+DESCRIPTION:Boston AI Week Opening Party
+LOCATION:Island Creek Oyster Raw Bar\, 99 Autumn Lane\, Boston\, MA 02210
+URL:https://aiweek.boston/schedule/boston-ai-week-opening-party
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boston AI Week Opening Party
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boston AI Week Opening Party
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:recursive-learning-hackathon-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260926T000000
+DTEND;TZID=America/New_York:20260927T235900
+SUMMARY:Recursive Learning Hackathon — Harvard Innovation Labs × Sundai
+DESCRIPTION:A two-day weekend hackathon on recursive learning at Harvard 
+ Innovation Labs.
+LOCATION:Harvard Innovation Labs\, 125 Western Ave\, Allston\, MA
+URL:https://aiweek.boston/schedule/recursive-learning-hackathon-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recursive Learning Hackathon — Harvard Innovation Labs × Sund
+ ai
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recursive Learning Hackathon — Harvard Innovation Labs × Sund
+ ai
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:devfest-boston-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260926T090000
+DTEND;TZID=America/New_York:20260926T170000
+SUMMARY:DevFest Boston 2026
+DESCRIPTION:DevFest Boston 2026 is the flagship annual conference hosted 
+ by GDG Cloud Boston\, bringing together developers\, AI practitioners\, c
+ loud engineers\, students\, and technology leaders for a day of learning\
+ , innovation\, and networking. Join us for expert talks\, hands-on techni
+ cal sessions\, and community-
+LOCATION:Hult International Business School\, 1 Education Street\, Cambri
+ dge\, MA 02141
+URL:https://aiweek.boston/schedule/devfest-boston-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:DevFest Boston 2026
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:DevFest Boston 2026
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:glasswing-ventures-enterprise-ready-ai-hackathon@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260926T093000
+DTEND;TZID=America/New_York:20260926T173000
+SUMMARY:Glasswing Ventures Enterprise-Ready AI Hackathon — Day 1 ($300K i
+ n Compute!)
+DESCRIPTION:Day 1 of a two-day\, in-person\, highly selective AI hackatho
+ n for technical builders — $300K in compute credits for the grand prize.
+LOCATION:Glasswing Ventures\, 275 Newbury Street\, Boston\, MA
+URL:https://aiweek.boston/schedule/glasswing-ventures-enterprise-ready-ai
+ -hackathon
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Glasswing Ventures Enterprise-Ready AI Hackathon — Day 1 ($30
+ 0K in Compute!)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Glasswing Ventures Enterprise-Ready AI Hackathon — Day 1 ($30
+ 0K in Compute!)
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:architecting-with-ai-developer-roundtable@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260926T100000
+DTEND;TZID=America/New_York:20260926T113000
+SUMMARY:Architecting with AI: A Developer Roundtable on Software Engineer
+ ing in the Agent Era
+DESCRIPTION:A developer roundtable on how multi-agent AI coding tools are
+  reshaping software engineering.
+URL:https://aiweek.boston/schedule/architecting-with-ai-developer-roundta
+ ble
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Architecting with AI: A Developer Roundtable on Software Engi
+ neering in the Agent Era
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Architecting with AI: A Developer Roundtable on Software Engi
+ neering in the Agent Era
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:robot-block-party-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260926T110000
+DTEND;TZID=America/New_York:20260926T160000
+SUMMARY:Robot Block Party
+DESCRIPTION:RoboBoston: the largest celebration of robotics and Physical 
+ AI in Boston's Seaport.
+LOCATION:MassRobotics (Large Tents on parking lot)\, 85 Northern Ave\, Bo
+ ston\, MA
+URL:https://aiweek.boston/schedule/robot-block-party-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Robot Block Party
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Robot Block Party
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boat-rides-boston-harbor-captain-chris-2026-09-26@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260926T120000
+DTEND;TZID=America/New_York:20260926T130000
+SUMMARY:Boat Rides of Boston Harbor with Captain Chris
+DESCRIPTION:Time: TBA · Fan Pier · Very limited availability — RSVP to be
+  considered.
+LOCATION:Fan Pier\, Fan Pier\, Boston\, MA
+URL:https://aiweek.boston/schedule/boat-rides-boston-harbor-captain-chris
+ -2026-09-26
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boat Rides of Boston Harbor with Captain Chris
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boat Rides of Boston Harbor with Captain Chris
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-underutilization-hypothesis-on-the-allocation-of-existing-artificial-intelli@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260926T140000
+DTEND;TZID=America/New_York:20260926T150000
+SUMMARY:The Underutilization Hypothesis: On the Allocation of Existing Ar
+ tificial Intelligence\, Human Comparative Advantage\, and the Question of
+  What Computation Is For
+DESCRIPTION:Public debate about artificial intelligence runs along two tr
+ acks: whether deployment is outpacing our ability to govern it\, and when
+  systems will match general human capability. These look like opposing ca
+ mps\, but they share an assumption - that the decision variable is the qu
+ antity of machine inte
+LOCATION:To be determined\, To be determined
+URL:https://aiweek.boston/schedule/the-underutilization-hypothesis-on-the
+ -allocation-of-existing-artificial-intelli
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Underutilization Hypothesis: On the Allocation of Existin
+ g Artificial Intelligence\, Human Comparative Advantage\, and the Questio
+ n of What Computation Is For
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Underutilization Hypothesis: On the Allocation of Existin
+ g Artificial Intelligence\, Human Comparative Advantage\, and the Questio
+ n of What Computation Is For
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:code-counsels-human-in-the-loop-ping-pong-meetup@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260926T180000
+DTEND;TZID=America/New_York:20260926T200000
+SUMMARY:Code & Counsel's Human in the Loop Ping Pong Meetup
+DESCRIPTION:Code + Counsel's Human-in-the-Loop Ping Pong Meetup brings to
+ gether legal and AI professionals for an informal evening of conversation
+ \, connection\, and friendly competition at SPIN Boston. Join us on Satur
+ day\, September 26\, from 6:00–8:00 p.m. for two hours of ping pong and n
+ etworking\, sponsored by 
+LOCATION:SPIN Boston (Seaport)\, 30 MELCHER ST.\, BOSTON\, MA 02210
+URL:https://aiweek.boston/schedule/code-counsels-human-in-the-loop-ping-p
+ ong-meetup
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Code & Counsel's Human in the Loop Ping Pong Meetup
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Code & Counsel's Human in the Loop Ping Pong Meetup
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:glasswing-ventures-enterprise-ready-ai-hackathon-day-2@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260927T093000
+DTEND;TZID=America/New_York:20260927T173000
+SUMMARY:Glasswing Ventures Enterprise-Ready AI Hackathon — Day 2 ($300K i
+ n Compute!)
+DESCRIPTION:Day 2 of a two-day\, in-person\, highly selective AI hackatho
+ n for technical builders — $300K in compute credits for the grand prize.
+LOCATION:Glasswing Ventures\, 275 Newbury Street\, Boston\, MA
+URL:https://aiweek.boston/schedule/glasswing-ventures-enterprise-ready-ai
+ -hackathon-day-2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Glasswing Ventures Enterprise-Ready AI Hackathon — Day 2 ($30
+ 0K in Compute!)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Glasswing Ventures Enterprise-Ready AI Hackathon — Day 2 ($30
+ 0K in Compute!)
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:code-counsels-legal-ai-community-hackathon-building-common-ground@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260927T110000
+DTEND;TZID=America/New_York:20260927T140000
+SUMMARY:Code & Counsel's Legal AI Community Hackathon: Building Common Gr
+ ound
+DESCRIPTION:Registration: Free and open to the public\; advance registrat
+ ion required\nEligibility: Ages 18+\nCode & Counsel’s Legal AI Community 
+ Hackathon: Building Common Ground is a three-hour public-interest design 
+ sprint focused on how artificial intelligence\, paired with legal knowled
+ ge and meaningful human 
+LOCATION:The Foundry\, 101 Rogers St\, Cambridge\, MA 02142
+URL:https://aiweek.boston/schedule/code-counsels-legal-ai-community-hacka
+ thon-building-common-ground
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Code & Counsel's Legal AI Community Hackathon: Building Commo
+ n Ground
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Code & Counsel's Legal AI Community Hackathon: Building Commo
+ n Ground
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:code-counsels-legal-ai-community-hackathon-building-common-ground-2@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260927T110000
+DTEND;TZID=America/New_York:20260927T140000
+SUMMARY:Code & Counsel's Legal AI Community Hackathon: Building Common Gr
+ ound
+DESCRIPTION:Registration: Free and open to the public\; advance registrat
+ ion required\nEligibility: Ages 18+\nCode & Counsel’s Legal AI Community 
+ Hackathon: Building Common Ground is a three-hour public-interest design 
+ sprint focused on how artificial intelligence\, paired with legal knowled
+ ge and meaningful human 
+LOCATION:The Foundry\, 101 Rogers St\, Cambridge\, MA 02142
+URL:https://aiweek.boston/schedule/code-counsels-legal-ai-community-hacka
+ thon-building-common-ground-2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Code & Counsel's Legal AI Community Hackathon: Building Commo
+ n Ground
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Code & Counsel's Legal AI Community Hackathon: Building Commo
+ n Ground
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:imagination-in-action-ai-retreat@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260927T110000
+DTEND;TZID=America/New_York:20260927T160000
+SUMMARY:Imagination in Action AI Retreat
+DESCRIPTION:This distinctive retreat will be hosted at a remarkable home 
+ in Dedham MA. The purpose of this AI Retreat is to create an environment 
+ rich in intellectual stimulation\, where esteemed professionals from scie
+ nce\, engineering\, and technology can connect. We envision the retreat a
+ s a forum for vibrant\, 
+LOCATION:At a beautiful home in a magical settingm\, Dedham MA.\, Release
+ d on RSVP approval.
+URL:https://aiweek.boston/schedule/imagination-in-action-ai-retreat
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Imagination in Action AI Retreat
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Imagination in Action AI Retreat
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boat-rides-boston-harbor-captain-chris-2026-09-27@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260927T120000
+DTEND;TZID=America/New_York:20260927T130000
+SUMMARY:Boat Rides of Boston Harbor with Captain Chris
+DESCRIPTION:Time: TBA · Fan Pier · Very limited availability — RSVP to be
+  considered.
+LOCATION:Fan Pier\, Fan Pier\, Boston\, MA
+URL:https://aiweek.boston/schedule/boat-rides-boston-harbor-captain-chris
+ -2026-09-27
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boat Rides of Boston Harbor with Captain Chris
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boat Rides of Boston Harbor with Captain Chris
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bdmt-global-innovator-summit-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260928T080000
+DTEND;TZID=America/New_York:20260928T180000
+SUMMARY:BDMT Global Innovator Summit — Day 1 (Mon)
+DESCRIPTION:Curated three-day summit connecting global tech innovators wi
+ th U.S. ecosystem leaders and investors.
+LOCATION:Hynes Convention Center\, 900 Boylston Street\, Boston\, MA
+URL:https://aiweek.boston/schedule/bdmt-global-innovator-summit-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BDMT Global Innovator Summit — Day 1 (Mon)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BDMT Global Innovator Summit — Day 1 (Mon)
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:conv2x-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260928T090000
+DTEND;TZID=America/New_York:20260928T170000
+SUMMARY:ConV2X
+DESCRIPTION:Connected-vehicle and V2X technology conference. Details TBA.
+URL:https://aiweek.boston/schedule/conv2x-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ConV2X
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ConV2X
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gai-world-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260928T090000
+DTEND;TZID=America/New_York:20260928T170000
+SUMMARY:GAI World 2026 — Day 1
+DESCRIPTION:The premier enterprise generative AI conference — strategy\, 
+ deployment\, and ROI for senior leaders.
+LOCATION:Hynes Convention Center\, 900 Boylston St\, Boston\, MA
+URL:https://aiweek.boston/schedule/gai-world-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:GAI World 2026 — Day 1
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:GAI World 2026 — Day 1
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boat-rides-boston-harbor-captain-chris-2026-09-28@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260928T120000
+DTEND;TZID=America/New_York:20260928T130000
+SUMMARY:Boat Rides of Boston Harbor with Captain Chris
+DESCRIPTION:Time: TBA · Fan Pier · Very limited availability — RSVP to be
+  considered.
+LOCATION:Fan Pier\, Fan Pier\, Boston\, MA
+URL:https://aiweek.boston/schedule/boat-rides-boston-harbor-captain-chris
+ -2026-09-28
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boat Rides of Boston Harbor with Captain Chris
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boat Rides of Boston Harbor with Captain Chris
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-governance-the-difference-between-a-pilot-and-a-successful-rollout@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260928T133000
+DTEND;TZID=America/New_York:20260928T143000
+SUMMARY:AI Governance: The Difference Between a Pilot and a Successful Ro
+ llout
+DESCRIPTION:Most enterprise AI initiatives don't fail in the lab — they f
+ ail in production\, when nobody can say with confidence what data trained
+  the model\, who has access to it\, or what happens when it gets somethin
+ g wrong.\nA pilot only has to work once\, in a controlled environment\, i
+ n front of a friendly audi
+LOCATION:what ever venue is available at AI week\, 39985 LAS PALMAS CT FR
+ EMONT\, CA 94539
+URL:https://aiweek.boston/schedule/ai-governance-the-difference-between-a
+ -pilot-and-a-successful-rollout
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI Governance: The Difference Between a Pilot and a Successfu
+ l Rollout
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI Governance: The Difference Between a Pilot and a Successfu
+ l Rollout
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-in-oncology-from-data-to-better-patient-outcomes@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260928T150000
+DTEND;TZID=America/New_York:20260928T170000
+SUMMARY:AI in Oncology: From Data to Better Patient Outcomes
+DESCRIPTION:Join ConcertAI for an engaging panel discussion on the role o
+ f AI in advancing oncology. Explore how trusted data and AI-powered insig
+ hts are helping researchers and clinicians accelerate innovation\, improv
+ e decision-making\, and drive better patient outcomes. Stay for networkin
+ g with leaders from he
+LOCATION:225 Franklin Street | Oxford Properties Group | Boston\, MA 0211
+ 0\, 225 Franklin Street\, Boston\, MA 02110
+URL:https://aiweek.boston/schedule/ai-in-oncology-from-data-to-better-pat
+ ient-outcomes
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI in Oncology: From Data to Better Patient Outcomes
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI in Oncology: From Data to Better Patient Outcomes
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:show-tell-meet-the-real-small-business-owners-using-ai@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260928T150000
+DTEND;TZID=America/New_York:20260928T173000
+SUMMARY:Show & Tell: Meet the Real Small Business Owners Using AI
+DESCRIPTION:You've heard AI is going to change everything. What you proba
+ bly haven't seen is someone who runs a business like yours actually using
+  it\, on an ordinary Monday\, to get through the to-do list.\n\nThat's wh
+ at this is.\n\nWe're bringing together four Greater Boston small business
+  owners\, real people we've
+LOCATION:Boston Chamber of Commerce\, 265 Franklin Street\, Suite 1701\, 
+ Boston\, MA 02110
+URL:https://aiweek.boston/schedule/show-tell-meet-the-real-small-business
+ -owners-using-ai
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Show & Tell: Meet the Real Small Business Owners Using AI
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Show & Tell: Meet the Real Small Business Owners Using AI
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:when-ai-gets-physical-navigating-the-real-world-risks-and-rewards@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260928T180000
+DTEND;TZID=America/New_York:20260928T210000
+SUMMARY:When AI Gets Physical: Navigating the Real-World Risks and Reward
+ s
+DESCRIPTION:Greenberg Traurig is pleased to present the second annual An 
+ Evening with Greenberg Traurig. This year's featured panel\, "When AI Get
+ s Physical: Navigating the Real-World Risks and Rewards\," will examine t
+ he growing impact of AI in real-world environments and the legal\, busine
+ ss\, and operational con
+LOCATION:Matria at the InterContinental\, 510 Atlantic Ave Boston\, MA 02
+ 210
+URL:https://aiweek.boston/schedule/when-ai-gets-physical-navigating-the-r
+ eal-world-risks-and-rewards
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:When AI Gets Physical: Navigating the Real-World Risks and Re
+ wards
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:When AI Gets Physical: Navigating the Real-World Risks and Re
+ wards
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:beyond-the-demo-the-human-side-of-ai@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260928T183000
+DTEND;TZID=America/New_York:20260928T203000
+SUMMARY:Beyond the Demo: The Human Side of AI
+DESCRIPTION:Artificial intelligence is advancing at an incredible pace\, 
+ but behind every breakthrough is a deeply human story.\n\nBeyond the Demo
+ : The Human Side of AI brings together Boston AI founders\, researchers\,
+  designers\, and innovators to share the moments that inspired them to bu
+ ild\, not just what they bu
+LOCATION:Hult International Business School — Boston Campus\, pending fin
+ al institutional and room confirmation\n\nThe proposed venue is an academ
+ ic event space in Cambridge near Kendall Square with room for a public pa
+ nel\, audience Q&A\, interactive exhibits\, and networking.\, Hult Intern
+ ational Business School 1 Education Street Cambridge\, MA 02141
+URL:https://aiweek.boston/schedule/beyond-the-demo-the-human-side-of-ai
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Beyond the Demo: The Human Side of AI
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Beyond the Demo: The Human Side of AI
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:women-in-ai-breakfast-gai-world-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260929T073000
+DTEND;TZID=America/New_York:20260929T090000
+SUMMARY:Women in AI Breakfast at GAI World 2026
+DESCRIPTION:A roundtable breakfast at GAI World 2026 celebrating and empo
+ wering the women leading enterprise AI — facilitated conversations with e
+ xecutives\, builders\, and researchers from across the Massachusetts ecos
+ ystem.
+LOCATION:Hynes Convention Center\, 900 Boylston Street\, Boston\, MA 0211
+ 5
+URL:https://aiweek.boston/schedule/women-in-ai-breakfast-gai-world-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Women in AI Breakfast at GAI World 2026
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Women in AI Breakfast at GAI World 2026
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bdmt-global-innovator-summit-2026-day-2@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260929T080000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:BDMT Global Innovator Summit — Day 2 (Tue)
+DESCRIPTION:Curated three-day summit connecting global tech innovators wi
+ th U.S. ecosystem leaders and investors.
+LOCATION:Hynes Convention Center\, 900 Boylston Street\, Boston\, MA
+URL:https://aiweek.boston/schedule/bdmt-global-innovator-summit-2026-day-
+ 2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BDMT Global Innovator Summit — Day 2 (Tue)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BDMT Global Innovator Summit — Day 2 (Tue)
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:langsmith-roadshow-building-agents-with-agents@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260929T083000
+DTEND;TZID=America/New_York:20260929T130000
+SUMMARY:LangSmith Roadshow: Building Agents with Agents
+DESCRIPTION:Shipping an agent to production is one thing. Keeping it work
+ ing as traffic\, prompts\, and edge cases pile up is another. Join us for
+  a half-day\, hands-on look at LangSmith Engine — the layer that reads yo
+ ur traces\, finds where your agent is failing\, and fixes it — plus Deep 
+ Agents\, our managed infra
+LOCATION:Convene One Boston Place\, 201 Washington St\, Boston\, MA 02108
+URL:https://aiweek.boston/schedule/langsmith-roadshow-building-agents-wit
+ h-agents
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:LangSmith Roadshow: Building Agents with Agents
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:LangSmith Roadshow: Building Agents with Agents
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gai-world-2026-day-2@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260929T090000
+DTEND;TZID=America/New_York:20260929T170000
+SUMMARY:GAI World 2026 — Day 2
+DESCRIPTION:The premier enterprise generative AI conference — strategy\, 
+ deployment\, and ROI for senior leaders.
+LOCATION:Hynes Convention Center
+URL:https://aiweek.boston/schedule/gai-world-2026-day-2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:GAI World 2026 — Day 2
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:GAI World 2026 — Day 2
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-for-the-rest-of-us-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260929T090000
+DTEND;TZID=America/New_York:20260929T120000
+SUMMARY:AI for the Rest of Us: How Support Forge is Bringing Enterprise A
+ I to Underserved SMBs
+DESCRIPTION:How Support Forge brings enterprise-grade AI strategy to mid-
+ market SMBs.
+LOCATION:Virtual / TBD
+URL:https://aiweek.boston/schedule/ai-for-the-rest-of-us-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI for the Rest of Us: How Support Forge is Bringing Enterpri
+ se AI to Underserved SMBs
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI for the Rest of Us: How Support Forge is Bringing Enterpri
+ se AI to Underserved SMBs
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:how-to-build-a-company-brain@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260929T110000
+DTEND;TZID=America/New_York:20260929T123000
+SUMMARY:How To Build a Company Brain
+DESCRIPTION:Every company already has a brain. It's just disparate and sc
+ attered across inboxes\, CRMs\, shared drives\, and the memory of whoever
+  has been there longest. This panel is about building a real "company bra
+ in": an AI-native knowledge layer with accountable sources\, relationship
+ s treated as records\, an
+LOCATION:TBD\, Physical address provided on panel acceptance
+URL:https://aiweek.boston/schedule/how-to-build-a-company-brain
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:How To Build a Company Brain
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:How To Build a Company Brain
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:how-to-build-a-company-brain-2@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260929T110000
+DTEND;TZID=America/New_York:20260929T123000
+SUMMARY:How to Build a Company Brain
+DESCRIPTION:Every company already has a brain. It is just spread across i
+ nboxes\, CRM notes\, shared drives\, and the memory of whoever has been t
+ here the longest. The knowledge already exists. The work is connecting it
+ .\n\nJoin Unosquare for a candid panel on designing a company brain: infr
+ astructure that gathers a
+LOCATION:TBD\, TBD on submission acceptance
+URL:https://aiweek.boston/schedule/how-to-build-a-company-brain-2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:How to Build a Company Brain
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:How to Build a Company Brain
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boat-rides-boston-harbor-captain-chris-2026-09-29@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260929T120000
+DTEND;TZID=America/New_York:20260929T130000
+SUMMARY:Boat Rides of Boston Harbor with Captain Chris
+DESCRIPTION:Time: TBA · Fan Pier · Very limited availability — RSVP to be
+  considered.
+LOCATION:Fan Pier\, Fan Pier\, Boston\, MA
+URL:https://aiweek.boston/schedule/boat-rides-boston-harbor-captain-chris
+ -2026-09-29
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boat Rides of Boston Harbor with Captain Chris
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boat Rides of Boston Harbor with Captain Chris
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:training-custom-ai-models-via-fine-tuning@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260929T130000
+DTEND;TZID=America/New_York:20260929T160000
+SUMMARY:Training Custom AI Models via Fine-Tuning
+DESCRIPTION:Hands-on workshop on fine-tuning open models for domain-speci
+ fic tasks.
+URL:https://aiweek.boston/schedule/training-custom-ai-models-via-fine-tun
+ ing
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Training Custom AI Models via Fine-Tuning
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Training Custom AI Models via Fine-Tuning
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ma-workforce-ai-career-fair-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260929T130000
+DTEND;TZID=America/New_York:20260929T170000
+SUMMARY:The AI in Massachusetts Workforce Development and Career Fair
+DESCRIPTION:New England's largest AI workforce development and career fai
+ r — connecting Massachusetts talent with the companies building the futur
+ e of AI.
+LOCATION:Metcalf Hall Grand Ballroom\, George Sherman Union (GSU)\, Bosto
+ n University\, 775 Commonwealth Avenue\, 2nd Floor\, Boston\, MA
+URL:https://aiweek.boston/schedule/ma-workforce-ai-career-fair-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The AI in Massachusetts Workforce Development and Career Fair
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The AI in Massachusetts Workforce Development and Career Fair
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wentworth-ai-test-kitchen-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260929T130000
+DTEND;TZID=America/New_York:20260929T160000
+SUMMARY:Can You Trust Your AI? The Wentworth AI Test Kitchen
+DESCRIPTION:A hands-on AI experience where participants evaluate real Wen
+ tworth-built AI systems\, explore how to make them more reliable and resp
+ onsible\, and meet the faculty and students driving applied AI innovation
+ .
+LOCATION:CEIS Foyer\, Wentworth Institute of Technology\, 550 Huntington 
+ Ave\, Boston\, MA 02115
+URL:https://aiweek.boston/schedule/wentworth-ai-test-kitchen-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Can You Trust Your AI? The Wentworth AI Test Kitchen
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Can You Trust Your AI? The Wentworth AI Test Kitchen
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:manufacturing-ai-siop-to-shop-floor@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260929T163000
+DTEND;TZID=America/New_York:20260929T181500
+SUMMARY:Manufacturing AI: SIOP to Shop Floor
+DESCRIPTION:Excess inventory and stockouts frequently occur in the same q
+ uarter\, on the same SKUs. The cause is rarely demand volatility. It is t
+ he distance between the commercial forecast and an achievable supply plan
+ .\n\nThis hour addresses both halves of that gap. On the planning side\, 
+ SIOP: statistical demand
+LOCATION:Findability Sciences Office at Workbar Burlington\n100 Summit Dr
+ \, Ste 917\, Burlington\, MA 01880\n3rd floor in the building\, 100 Summi
+ t Dr\, Ste 917\, Burlington\, MA 01880
+URL:https://aiweek.boston/schedule/manufacturing-ai-siop-to-shop-floor
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manufacturing AI: SIOP to Shop Floor
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manufacturing AI: SIOP to Shop Floor
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:national-security-defense-tech-demo-day-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260929T163000
+DTEND;TZID=America/New_York:20260929T193000
+SUMMARY:QLab 2026 Demo Day
+DESCRIPTION:The capstone of the QLab year — the 2026 cohort presents what
+  they have spent it building\, followed by a happy hour.
+LOCATION:TBD\, TBD — Cambridge\, MA
+URL:https://aiweek.boston/schedule/national-security-defense-tech-demo-da
+ y-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:QLab 2026 Demo Day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:QLab 2026 Demo Day
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jd-ai-building-whats-next-at-democracy-brewing@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260929T173000
+DTEND;TZID=America/New_York:20260929T200000
+SUMMARY:JD → AI: Building What's Next at Democracy Brewing
+DESCRIPTION:The future of legal careers extends far beyond traditional pr
+ actice. JD → AI: Building What's Next is a two-part experience for attorn
+ eys\, law students\, and legal professionals exploring opportunities in l
+ egal technology and AI.\n\n​The evening begins with a free Happy Hour & a
+ n open panel featuring l
+LOCATION:Democracy Brewing\, 35 Temple Place Boston\, MA 02111
+URL:https://aiweek.boston/schedule/jd-ai-building-whats-next-at-democracy
+ -brewing
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:JD → AI: Building What's Next at Democracy Brewing
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:JD → AI: Building What's Next at Democracy Brewing
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-in-action-questrom-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260929T180000
+DTEND;TZID=America/New_York:20260929T200000
+SUMMARY:AI in Action: Real Use Cases Driving Business Impact
+DESCRIPTION:Cross-industry panel on where AI is delivering measurable imp
+ act — and where it has fallen short — across finance\, healthcare\, consu
+ lting\, and STEM.
+LOCATION:Questrom School of Business\, 595 Commonwealth Avenue\, 4th Floo
+ r\, Boston\, MA 02215
+URL:https://aiweek.boston/schedule/ai-in-action-questrom-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI in Action: Real Use Cases Driving Business Impact
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI in Action: Real Use Cases Driving Business Impact
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-in-sales-selling-hasnt-changed-the-tools-have@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260929T180000
+DTEND;TZID=America/New_York:20260929T200000
+SUMMARY:AI in Sales: Selling Hasn't Changed\, the Tools Have
+DESCRIPTION:Sales has changed a lot in a short time. There's more noise t
+ han ever and AI is making more of it. Any rep can send a hundred personal
+ ized emails before lunch now. Buyers stopped reading them a while ago.\n\
+ nHear from sales experts on what they automate\, what they don't\, and ho
+ w they still cut through
+LOCATION:TBA\, TBA
+URL:https://aiweek.boston/schedule/ai-in-sales-selling-hasnt-changed-the-
+ tools-have
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI in Sales: Selling Hasn't Changed\, the Tools Have
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI in Sales: Selling Hasn't Changed\, the Tools Have
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:thriving-in-the-age-of-ai-the-intersection-of-business-higher-education-and-tech@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260929T180000
+DTEND;TZID=America/New_York:20260929T200000
+SUMMARY:Thriving in the age of AI: The intersection of business\, higher 
+ education and technological disruption.
+DESCRIPTION:Did you miss our amazing\, energizing\, fully sold-out event 
+ last year??? No problem\, we are doing it again!\nJoin us at Hult Interna
+ tional Business School for an inspiring evening on Generative AI and its 
+ impact on business\, education\, and leadership.\nRegister Here: https://
+ my.hult.edu/s/eventregistra
+LOCATION:Hult International Business School\nHult Center (main building)\
+ , 7th floor\, 1 Education St\, Cambridge MA 02141
+URL:https://aiweek.boston/schedule/thriving-in-the-age-of-ai-the-intersec
+ tion-of-business-higher-education-and-tech
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Thriving in the age of AI: The intersection of business\, hig
+ her education and technological disruption.
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Thriving in the age of AI: The intersection of business\, hig
+ her education and technological disruption.
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-hosts-friends@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260929T180000
+DTEND;TZID=America/New_York:20260929T220000
+SUMMARY:Event Hosts & Friends
+DESCRIPTION:Event Hosts & Friends is a casual get-together for event host
+ s to swap stories\, trade ideas\, and enjoy some good vibes together. If 
+ you spend your time bringing people into rooms\, managing the flow\, solv
+ ing last-minute surprises\, or creating memorable nights\, this is a grea
+ t chance to unwind with ot
+LOCATION:(venue revealed upon registration approval)\, (address revealed 
+ upon registration approval)
+URL:https://aiweek.boston/schedule/event-hosts-friends
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Event Hosts & Friends
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Event Hosts & Friends
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:executive-dinner-the-future-of-ai@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260929T183000
+DTEND;TZID=America/New_York:20260929T213000
+SUMMARY:Executive Dinner - The Future of AI
+DESCRIPTION:Join us for an exclusive\, Jeffersonian-style dinner designed
+  for leading executives in the technology sector. This intimate gathering
+  will create a space for meaningful conversation\, allowing industry lead
+ ers to engage in insightful discussions on the future of technology and A
+ I. With a guided forma
+LOCATION:https://davios.com/bos\, 75 Arlington St\, Boston\, MA 02116
+URL:https://aiweek.boston/schedule/executive-dinner-the-future-of-ai
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Executive Dinner - The Future of AI
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Executive Dinner - The Future of AI
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:your-ai-wont-adopt-itself-scaling-ai-securely-across-your-enterprise-gtm-team@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260930T073000
+DTEND;TZID=America/New_York:20260930T100000
+SUMMARY:Your AI Won't Adopt Itself: Scaling AI Securely Across Your Enter
+ prise GTM Team
+DESCRIPTION:Buying the AI tools was the easy part. Getting the environmen
+ t configured and getting your teams to actually use AI well\, that's wher
+ e things get interesting.\n\nGrab a coffee and join us for a breakfast co
+ nversation about the messy\, human side of enterprise AI: how you get rea
+ l people to build real s
+LOCATION:Rocket Software Office\, 77 Fourth Avenue\, Waltham\, MA 02451
+URL:https://aiweek.boston/schedule/your-ai-wont-adopt-itself-scaling-ai-s
+ ecurely-across-your-enterprise-gtm-team
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Your AI Won't Adopt Itself: Scaling AI Securely Across Your E
+ nterprise GTM Team
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Your AI Won't Adopt Itself: Scaling AI Securely Across Your E
+ nterprise GTM Team
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bdmt-global-innovator-summit-2026-day-3@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260930T080000
+DTEND;TZID=America/New_York:20260930T180000
+SUMMARY:BDMT Global Innovator Summit — Day 3 (Wed)
+DESCRIPTION:Curated three-day summit connecting global tech innovators wi
+ th U.S. ecosystem leaders and investors.
+LOCATION:Hynes Convention Center\, 900 Boylston Street\, Boston\, MA
+URL:https://aiweek.boston/schedule/bdmt-global-innovator-summit-2026-day-
+ 3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BDMT Global Innovator Summit — Day 3 (Wed)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BDMT Global Innovator Summit — Day 3 (Wed)
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gai-world-2026-day-3@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260930T090000
+DTEND;TZID=America/New_York:20260930T170000
+SUMMARY:GAI World 2026 — Day 3
+DESCRIPTION:The premier enterprise generative AI conference — strategy\, 
+ deployment\, and ROI for senior leaders.
+LOCATION:Hynes Convention Center
+URL:https://aiweek.boston/schedule/gai-world-2026-day-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:GAI World 2026 — Day 3
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:GAI World 2026 — Day 3
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-blueprint-for-massachusetts@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260930T090000
+DTEND;TZID=America/New_York:20260930T120000
+SUMMARY:AI Blueprint for Massachusetts
+DESCRIPTION:A working session uniting government\, industry\, and academi
+ a on the Commonwealth's path to responsible AI leadership.
+LOCATION:Greater Boston — venue TBA\, Boston\, MA
+URL:https://aiweek.boston/schedule/ai-blueprint-for-massachusetts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI Blueprint for Massachusetts
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI Blueprint for Massachusetts
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mit-futurefest-2026-day-1@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260930T100000
+DTEND;TZID=America/New_York:20260930T210000
+SUMMARY:MIT Future Fest — Day 1: Futures in Motion
+DESCRIPTION:Opening day at MIT: a keynote gathering of MIT visionaries an
+ d international headliners\, capped by the evening launch of the Sensing 
+ Oceans immersive exhibition at the MIT Museum.
+LOCATION:MIT Campus\, 77 Massachusetts Avenue\, Cambridge\, MA 02139
+URL:https://aiweek.boston/schedule/mit-futurefest-2026-day-1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MIT Future Fest — Day 1: Futures in Motion
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MIT Future Fest — Day 1: Futures in Motion
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:executive-inquiry-lab-collective-sensemaking-in-the-age-of-ai@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260930T113000
+DTEND;TZID=America/New_York:20260930T130000
+SUMMARY:Executive Inquiry Lab: Collective Sensemaking in the Age of AI
+DESCRIPTION:How can executives make better decisions in an age of abundan
+ t intelligence?\n\nJoin us for the first public experiment in a new model
+  of executive learning that combines human conversation\, AI-assisted syn
+ thesis\, editorial judgment\, and continuous sensemaking.\n\nRather than 
+ listening to presentations\,
+LOCATION:MIT Sloan School of Management\, Building E62-233\, 100 Main Str
+ eet\, Cambridge\, MA 02142
+URL:https://aiweek.boston/schedule/executive-inquiry-lab-collective-sense
+ making-in-the-age-of-ai
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Executive Inquiry Lab: Collective Sensemaking in the Age of A
+ I
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Executive Inquiry Lab: Collective Sensemaking in the Age of A
+ I
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boat-rides-boston-harbor-captain-chris-2026-09-30@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260930T120000
+DTEND;TZID=America/New_York:20260930T130000
+SUMMARY:Boat Rides of Boston Harbor with Captain Chris
+DESCRIPTION:Time: TBA · Fan Pier · Very limited availability — RSVP to be
+  considered.
+LOCATION:Fan Pier\, Fan Pier\, Boston\, MA
+URL:https://aiweek.boston/schedule/boat-rides-boston-harbor-captain-chris
+ -2026-09-30
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boat Rides of Boston Harbor with Captain Chris
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boat Rides of Boston Harbor with Captain Chris
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:your-first-digital-employee-building-an-ai-agent-that-actually-does-the-work@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260930T120000
+DTEND;TZID=America/New_York:20260930T130000
+SUMMARY:Your First Digital Employee: Building an AI Agent That Actually D
+ oes the Work
+DESCRIPTION:Most small businesses have tried a chatbot and been underwhel
+ med. This session is about the\nnext thing: autonomous agents that comple
+ te real work end to end — processing an order\,\nqualifying a lead\, chas
+ ing a follow-up\, writing the report — without a human in the loop for\ne
+ very step.\n\nWe'll build on
+LOCATION:https://www.airocket.pro/boston-ai-week
+URL:https://aiweek.boston/schedule/your-first-digital-employee-building-a
+ n-ai-agent-that-actually-does-the-work
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Your First Digital Employee: Building an AI Agent That Actual
+ ly Does the Work
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Your First Digital Employee: Building an AI Agent That Actual
+ ly Does the Work
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:an-evening-with-bostons-ai-data-leaders@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260930T163000
+DTEND;TZID=America/New_York:20260930T193000
+SUMMARY:An Evening with Boston's AI & Data Leaders
+DESCRIPTION:Hosted by Starburst — a candid\, high-level conversation with
+  the CDOs and data leaders shaping enterprise AI strategy right now.\n\nJ
+ oin Starburst and local Boston AI & Data Leaders during Boston AI Week fo
+ r an executive reception featuring an Enterprise Executive Panel.\n\nAbou
+ t the Panel\n\nEnterprise l
+LOCATION:Seaport District\, Venue to be provided with registration.\, Sea
+ port District\, Boston
+URL:https://aiweek.boston/schedule/an-evening-with-bostons-ai-data-leader
+ s
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:An Evening with Boston's AI & Data Leaders
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:An Evening with Boston's AI & Data Leaders
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-go-to-market-from-first-customers-to-repeatable-growth@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260930T170000
+DTEND;TZID=America/New_York:20260930T190000
+SUMMARY:AI Go-to-Market: From First Customers to Repeatable Growth
+DESCRIPTION:This panel is for early-stage B2B founders who have real cust
+ omer traction but are still relying on manual processes\, founder-led sal
+ es\, and instinct to grow. We'll discuss what to automate first\, what sh
+ ould remain human longer than you think\, and how to build a repeatable G
+ TM engine without losing
+LOCATION:Venture Lane | Startup Hub\n55 Court St Floor 2\, Boston\, MA 02
+ 108\, USA\nTake the elevator to the 2nd floor\, 55 Court St Floor 2\, Bos
+ ton\, MA 02108
+URL:https://aiweek.boston/schedule/ai-go-to-market-from-first-customers-t
+ o-repeatable-growth
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI Go-to-Market: From First Customers to Repeatable Growth
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI Go-to-Market: From First Customers to Repeatable Growth
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boston-generative-ai-meetup-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260930T180000
+DTEND;TZID=America/New_York:20260930T210000
+SUMMARY:Boston Generative AI Meetup
+DESCRIPTION:Monthly flagship gathering of MA founders\, researchers\, and
+  practitioners building with generative AI.
+LOCATION:Location TBD
+URL:https://aiweek.boston/schedule/boston-generative-ai-meetup-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boston Generative AI Meetup
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boston Generative AI Meetup
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-silence-tax-in-the-ai-era@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260930T180000
+DTEND;TZID=America/New_York:20260930T200000
+SUMMARY:The Silence Tax™ in the AI Era
+DESCRIPTION:A candid panel on the cost of staying quiet about AI inside o
+ rganizations.
+URL:https://aiweek.boston/schedule/the-silence-tax-in-the-ai-era
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Silence Tax™ in the AI Era
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Silence Tax™ in the AI Era
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pitch-lift-bostons-100000-elevator-pitch-competition@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260930T180000
+DTEND;TZID=America/New_York:20260930T210000
+SUMMARY:Pitch Lift: Boston's $100\,000 Elevator Pitch Competition
+DESCRIPTION:Founders deliver 30-second pitches inside an actual elevator 
+ for a chance to win $100\,000 in cash.
+LOCATION:Venue TBD
+URL:https://aiweek.boston/schedule/pitch-lift-bostons-100000-elevator-pit
+ ch-competition
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pitch Lift: Boston's $100\,000 Elevator Pitch Competition
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pitch Lift: Boston's $100\,000 Elevator Pitch Competition
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:multi-agent-symphony-conductor@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260930T180000
+DTEND;TZID=America/New_York:20260930T200000
+SUMMARY:The Multi-Agent Symphony: Operating Parallel Coding Agents with C
+ onductor
+DESCRIPTION:A practitioner talk on orchestrating parallel coding agents w
+ ith Conductor.
+URL:https://aiweek.boston/schedule/multi-agent-symphony-conductor
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Multi-Agent Symphony: Operating Parallel Coding Agents wi
+ th Conductor
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Multi-Agent Symphony: Operating Parallel Coding Agents wi
+ th Conductor
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:revolutionary-science-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260930T190000
+DTEND;TZID=America/New_York:20260930T210000
+SUMMARY:Revolutionary Science
+DESCRIPTION:An evening exploring AI and science at the Museum of Science.
+LOCATION:Museum of Science\, Museum Park\, Boston\, MA
+URL:https://aiweek.boston/schedule/revolutionary-science-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revolutionary Science
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revolutionary Science
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:women-in-ai-dinner-series-kickoff@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20260930T190000
+DTEND;TZID=America/New_York:20260930T210000
+SUMMARY:Women D(in)e AI: A Dinner Series Kickoff
+DESCRIPTION:We're gathering an intimate group of women building\, investi
+ ng in\, and leading with AI for a seated dinner: real conversation\, no n
+ ame-tag networking\, no pitch decks.\n\nKicking off during Boston AI Week
+ \, this is the first of what we hope becomes a regular series — small\, c
+ onsidered gatherings for wom
+LOCATION:TBD - Downtown Boston\, TBD - Downtown Boston
+URL:https://aiweek.boston/schedule/women-in-ai-dinner-series-kickoff
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Women D(in)e AI: A Dinner Series Kickoff
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Women D(in)e AI: A Dinner Series Kickoff
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tedxboston-longevity-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261001T000000
+DTEND;TZID=America/New_York:20261001T235900
+SUMMARY:TEDxBoston: Longevity
+DESCRIPTION:A TEDxBoston program on longevity and AI\, hosted with John W
+ erner\, Boston AI Week\, and WHOOP. Time and venue to be announced.
+LOCATION:TBD (to be announced)
+URL:https://aiweek.boston/schedule/tedxboston-longevity-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TEDxBoston: Longevity
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TEDxBoston: Longevity
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dataiq-peer-exchange-boston-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261001T083000
+DTEND;TZID=America/New_York:20261001T170000
+SUMMARY:DataIQ Peer Exchange — Boston
+DESCRIPTION:A private\, application-only peer exchange for ~40 senior ent
+ erprise data & AI leaders: "If Everyone Has AI\, Where is the Advantage?"
+LOCATION:The Quin House\, The Quin House\, Boston\, MA
+URL:https://aiweek.boston/schedule/dataiq-peer-exchange-boston-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:DataIQ Peer Exchange — Boston
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:DataIQ Peer Exchange — Boston
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-ready-or-risky-a-working-session-for-c-level-and-equivalent-enterprise-leader@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261001T083000
+DTEND;TZID=America/New_York:20261001T120000
+SUMMARY:AI Ready or Risky? A working session for C-level and equivalent e
+ nterprise leaders actively pursuing an AI initiative.
+DESCRIPTION:Your organization has identified an opportunity for AI. But i
+ s the business ready to move it forward?\n\nAI Ready or Risky? is an invi
+ tation-only working session for C-level executives and equivalent enterpr
+ ise leaders whose organizations are actively evaluating\, piloting\, impl
+ ementing\, or scaling an 
+LOCATION:EXP at Northeastern University\, Northeastern University 8th Flo
+ or EXP 815 Columbus Avenue\, 8th floor. Boston\, MA 02120
+URL:https://aiweek.boston/schedule/ai-ready-or-risky-a-working-session-fo
+ r-c-level-and-equivalent-enterprise-leader
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI Ready or Risky? A working session for C-level and equivale
+ nt enterprise leaders actively pursuing an AI initiative.
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI Ready or Risky? A working session for C-level and equivale
+ nt enterprise leaders actively pursuing an AI initiative.
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boston-ai-summit-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261001T090000
+DTEND;TZID=America/New_York:20261001T170000
+SUMMARY:The Boston AI Summit
+DESCRIPTION:Flagship Conference · Boston AI Week 2026 — doors 9:00 AM\, p
+ rogram 10:00 AM–5:00 PM.
+LOCATION:Foundation Medicine\, 400 Summer Street\, Boston\, MA 02210 (Sea
+ port District)
+URL:https://aiweek.boston/schedule/boston-ai-summit-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Boston AI Summit
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Boston AI Summit
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:agents-in-the-am@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261001T090000
+DTEND;TZID=America/New_York:20261001T143000
+SUMMARY:Agents in the AM
+DESCRIPTION:Join us for Agents in the AM\, an exclusive event where the h
+ ype ends and the building begins. Hear from experts\, get hands-on in a p
+ ractical lab\, and walk out ready to run agents that actually scale.\n\nF
+ or CIOs: We'll guide you through a proven framework for moving beyond pil
+ ots and into a production
+LOCATION:WeWork\, 33 Arch St\, Boston MA 02110
+URL:https://aiweek.boston/schedule/agents-in-the-am
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Agents in the AM
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Agents in the AM
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-strategy-to-enterprise-execution@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261001T090000
+DTEND;TZID=America/New_York:20261001T170000
+SUMMARY:From AI Strategy to Enterprise Execution
+DESCRIPTION:A working session on closing the gap between AI strategy and 
+ shipped enterprise outcomes.
+URL:https://aiweek.boston/schedule/ai-strategy-to-enterprise-execution
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:From AI Strategy to Enterprise Execution
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:From AI Strategy to Enterprise Execution
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mit-futurefest-2026-day-2@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261001T100000
+DTEND;TZID=America/New_York:20261001T210000
+SUMMARY:MIT Future Fest — Day 2: Systems in Flux
+DESCRIPTION:Sunrise movement and campus walks give way to climate\, healt
+ h\, and AI conversations\, open Future Labs\, and an evening of performan
+ ce and speculative storytelling.
+LOCATION:MIT Campus\, 77 Massachusetts Avenue\, Cambridge\, MA 02139
+URL:https://aiweek.boston/schedule/mit-futurefest-2026-day-2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MIT Future Fest — Day 2: Systems in Flux
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MIT Future Fest — Day 2: Systems in Flux
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boat-rides-boston-harbor-captain-chris-2026-10-01@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261001T120000
+DTEND;TZID=America/New_York:20261001T130000
+SUMMARY:Boat Rides of Boston Harbor with Captain Chris
+DESCRIPTION:Time: TBA · Fan Pier · Very limited availability — RSVP to be
+  considered.
+LOCATION:Fan Pier\, Fan Pier\, Boston\, MA
+URL:https://aiweek.boston/schedule/boat-rides-boston-harbor-captain-chris
+ -2026-10-01
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boat Rides of Boston Harbor with Captain Chris
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boat Rides of Boston Harbor with Captain Chris
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:architecture-and-ai-wentworth-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261001T130000
+DTEND;TZID=America/New_York:20261001T160000
+SUMMARY:Architecture and AI
+DESCRIPTION:PechaKucha demos and a moderated roundtable on how AI is tran
+ sforming architectural education\, research\, and practice — hosted by We
+ ntworth's School of Architecture and Design.
+LOCATION:Wentworth Institute of Technology\, 550 Huntington Ave\, Boston\
+ , MA 02115
+URL:https://aiweek.boston/schedule/architecture-and-ai-wentworth-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Architecture and AI
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Architecture and AI
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:datarobot-build-club-boston-ai-week-edition@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261001T143000
+DTEND;TZID=America/New_York:20261001T163000
+SUMMARY:DataRobot Build Club: Boston AI Week Edition
+DESCRIPTION:DataRobot Build Club is launching in Boston\, and what better
+  way to kick things off than during Boston AI Week!\n\n​Join us for an af
+ ternoon of conversations\, bites and drinks with the developers and AI en
+ thusiasts shaping the future of AI-powered development.\n\n​Meet fellow b
+ uilders and swap ideas on 
+LOCATION:WeWork Boston\, 501 Boylston St\, Boston\, MA 02116
+URL:https://aiweek.boston/schedule/datarobot-build-club-boston-ai-week-ed
+ ition
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:DataRobot Build Club: Boston AI Week Edition
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:DataRobot Build Club: Boston AI Week Edition
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:agentforce-salesforce-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261001T170000
+DTEND;TZID=America/New_York:20261001T190000
+SUMMARY:Harnessing AI through Agentforce in Salesforce
+DESCRIPTION:Join us for a two hour session where we share the latest AI A
+ gentforce innovations from Salesforce.
+LOCATION:Kearney Boston Offices\, 155 Seaport Blvd\, 2nd floor\, Boston\,
+  MA
+URL:https://aiweek.boston/schedule/agentforce-salesforce-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Harnessing AI through Agentforce in Salesforce
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Harnessing AI through Agentforce in Salesforce
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boston-openclaw-meetup-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261001T173000
+DTEND;TZID=America/New_York:20261001T203000
+SUMMARY:Boston OpenClaw Meetup
+DESCRIPTION:Monthly Boston OpenClaw Meetup during Boston AI Week.
+LOCATION:Microsoft NERD\, 1 Memorial Drive\, Cambridge\, MA 02142
+URL:https://aiweek.boston/schedule/boston-openclaw-meetup-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boston OpenClaw Meetup
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boston OpenClaw Meetup
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:building-ai-agents-for-founders-and-fractional-leaders@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261001T173000
+DTEND;TZID=America/New_York:20261001T193000
+SUMMARY:Building AI Agents for Founders and Fractional Leaders
+DESCRIPTION:​Walk in with the tools you already use. Walk out with a work
+ ing operational system built from your own processes.\n​A two-hour workin
+ g session. Connect a tool you already use\, map your processes with the S
+ pace Architect\, and set up the agents that run them.\n\n​Format\n\n​In-p
+ erson\, hands-on. Hosted by 
+LOCATION:MIT\, Boston Common 1P\, Charles St\, Boston\, MA 02116\, United
+  States
+URL:https://aiweek.boston/schedule/building-ai-agents-for-founders-and-fr
+ actional-leaders
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Building AI Agents for Founders and Fractional Leaders
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Building AI Agents for Founders and Fractional Leaders
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aws-startups-x-boston-ai-week-ai-visionaries-dinner@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261001T173000
+DTEND;TZID=America/New_York:20261001T210000
+SUMMARY:AWS Startups x Boston AI Week: AI Visionaries Dinner
+DESCRIPTION:Private event — guest list selected by AWS.\n\nThis event bri
+ ngs together CEO and CTO-level leaders from pioneering startups for an ex
+ clusive evening of peer-driven conversation and connection during Boston 
+ AI Week. Hosted at Capri in Boston\, this intimate gathering begins with 
+ cocktails and networkin
+LOCATION:Capri Boston\, 500 Harrison Ave\, Boston\, MA 02118
+URL:https://aiweek.boston/schedule/aws-startups-x-boston-ai-week-ai-visio
+ naries-dinner
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AWS Startups x Boston AI Week: AI Visionaries Dinner
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AWS Startups x Boston AI Week: AI Visionaries Dinner
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:maven-agi-happy-hour@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261001T173000
+DTEND;TZID=America/New_York:20261001T203000
+SUMMARY:Maven AGI Happy Hour
+DESCRIPTION:Maven AGI will host an open invintation happy hour during Bos
+ ton AI Week 2026\, the region's flagship AI festival running September 16
+  – October 28\, with Core Festival Week from September 24 – October 2. In
+  keeping with this year's theme\, "AI in Business and in Life\," the even
+ t is a low-key\, drop-in 
+LOCATION:Venue location will be disclosed to confirmed guests.\, Boston\,
+  MA
+URL:https://aiweek.boston/schedule/maven-agi-happy-hour
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Maven AGI Happy Hour
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Maven AGI Happy Hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tiecon-east-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261002T000000
+DTEND;TZID=America/New_York:20261002T235900
+SUMMARY:TiECON East 2026
+DESCRIPTION:Annual flagship conference of TiE Boston · Core Festival Week
+  finale
+LOCATION:Boston Marriott Burlington\, Boston Marriott Burlington\, Burlin
+ gton\, MA
+URL:https://aiweek.boston/schedule/tiecon-east-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TiECON East 2026
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TiECON East 2026
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tiecon-east-2026-the-next-growth-playbook-product-market-capital-in-the-age-of-a@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261002T073000
+DTEND;TZID=America/New_York:20261002T190000
+SUMMARY:TiECON East 2026 THE NEXT GROWTH PLAYBOOK: Product\, Market & Cap
+ ital in the Age of AI
+DESCRIPTION:TiECON East 2026\, co-hosted by TiE Boston and TiE New York\,
+  will take place on Friday\,\nOctober 2\, 2026\, at the Burlington Marrio
+ tt. This year’s theme\, “The Next Growth Playbook:\nProduct\, Market & Ca
+ pital in the Age of AI\,” will bring together founders\, investors\, busi
+ ness\nleaders\, and technology exe
+LOCATION:Burlington Marriott Hotel\nBurlington\, MA\, One Burlington Mall
+  Road\, Burlington\, MA 01803
+URL:https://aiweek.boston/schedule/tiecon-east-2026-the-next-growth-playb
+ ook-product-market-capital-in-the-age-of-a
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TiECON East 2026 THE NEXT GROWTH PLAYBOOK: Product\, Market &
+  Capital in the Age of AI
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TiECON East 2026 THE NEXT GROWTH PLAYBOOK: Product\, Market &
+  Capital in the Age of AI
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-education-and-the-future-of-how-we-prove-what-we-know@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261002T083000
+DTEND;TZID=America/New_York:20261002T103000
+SUMMARY:AI\, Education\, and the Future of How We Prove What We Know
+DESCRIPTION:Join us for a live taping of “Is Business Broken?”\, the Bost
+ on University Questrom School of Business Ravi K. Mehrotra Institute’s po
+ dcast in partnership with WBUR\, featuring a candid conversation with lea
+ ding voices on the future of AI.\n\nCo-hosted with the Questrom School’s 
+ Feld Center for Career a
+LOCATION:WBUR City Space\, 890 Commonwealth Ave\, Boston\, MA 02215
+URL:https://aiweek.boston/schedule/ai-education-and-the-future-of-how-we-
+ prove-what-we-know
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI\, Education\, and the Future of How We Prove What We Know
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI\, Education\, and the Future of How We Prove What We Know
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2nd-annual-ai-powered-innovation-in-protein-and-antibody-therapeutics-symposium@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261002T083000
+DTEND;TZID=America/New_York:20261002T173000
+SUMMARY:2nd Annual AI-Powered Innovation in Protein and Antibody Therapeu
+ tics Symposium
+DESCRIPTION:Sino Biological invites you to the 2nd Annual AI-Powered Inno
+ vation in Protein and Antibody Therapeutics (AIPAT) Symposium\, a premier
+  gathering of leading minds dedicated to shaping the future of biopharma 
+ discovery.\n\nThis year’s symposium features deep dives into machine lear
+ ning models\, in silico 
+LOCATION:Le Meridien Cambridge\, 20 Sidney St\, Cambridge\, MA 02139
+URL:https://aiweek.boston/schedule/2nd-annual-ai-powered-innovation-in-pr
+ otein-and-antibody-therapeutics-symposium
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2nd Annual AI-Powered Innovation in Protein and Antibody Ther
+ apeutics Symposium
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2nd Annual AI-Powered Innovation in Protein and Antibody Ther
+ apeutics Symposium
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:builders-and-brews@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261002T090000
+DTEND;TZID=America/New_York:20261002T170000
+SUMMARY:Builders and Brews
+DESCRIPTION:​A day of agents\, coffee\, and good company\n\n​Pull up for 
+ a day with Tavily\, Microsoft\, and Nebius.\n\n​We’re hosting a laid-back
+  builder day in Boston focused on real-world\, web-grounded agents\, no p
+ ressure\, no pitches\, just building\, experimenting\, and meeting great 
+ people.\n\n​Whether you’re deep in a
+LOCATION:Cambridge\, Jaho Coffee Cambridge
+URL:https://aiweek.boston/schedule/builders-and-brews
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Builders and Brews
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Builders and Brews
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:grade-the-work-can-your-managers-tell-good-ai-output-from-bad-a-live-test@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261002T100000
+DTEND;TZID=America/New_York:20261002T130000
+SUMMARY:Grade the Work: Can your managers tell good AI output from bad? A
+  live test.
+DESCRIPTION:AI-assisted work is crossing every desk in your company\, and
+  quality depends on who happens to review it.\n\nYou will be handed three
+  pieces of real AI-assisted work and asked to grade them. So will everyon
+ e else in the room. Then we put the results on screen and find out how mu
+ ch this room agrees wit
+LOCATION:TBD\, TBD
+URL:https://aiweek.boston/schedule/grade-the-work-can-your-managers-tell-
+ good-ai-output-from-bad-a-live-test
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Grade the Work: Can your managers tell good AI output from ba
+ d? A live test.
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Grade the Work: Can your managers tell good AI output from ba
+ d? A live test.
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mit-futurefest-2026-day-3@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261002T100000
+DTEND;TZID=America/New_York:20261002T210000
+SUMMARY:MIT Future Fest — Day 3: Frontiers in Focus
+DESCRIPTION:Quantum scientists\, AI researchers\, and manufacturing innov
+ ators converge — Future Labs across campus\, big conversations on AI and 
+ governance\, and an evening of science salon and Afrofuturist performance
+ .
+LOCATION:MIT Campus\, 77 Massachusetts Avenue\, Cambridge\, MA 02139
+URL:https://aiweek.boston/schedule/mit-futurefest-2026-day-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MIT Future Fest — Day 3: Frontiers in Focus
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MIT Future Fest — Day 3: Frontiers in Focus
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boat-rides-boston-harbor-captain-chris-2026-10-02@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261002T120000
+DTEND;TZID=America/New_York:20261002T130000
+SUMMARY:Boat Rides of Boston Harbor with Captain Chris
+DESCRIPTION:Time: TBA · Fan Pier · Very limited availability — RSVP to be
+  considered.
+LOCATION:Fan Pier\, Fan Pier\, Boston\, MA
+URL:https://aiweek.boston/schedule/boat-rides-boston-harbor-captain-chris
+ -2026-10-02
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boat Rides of Boston Harbor with Captain Chris
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Boat Rides of Boston Harbor with Captain Chris
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-meets-clinical-data-what-actually-breaks-and-what-automates@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261002T120000
+DTEND;TZID=America/New_York:20261002T130000
+SUMMARY:AI Meets Clinical Data: What Actually Breaks\, and What Automates
+DESCRIPTION:A candid fireside on where AI genuinely helps clinical data m
+ anagement — and where it doesn't. A practicing clinical data manager and 
+ an engineer from regulated-data systems (banking\, trading) compare how h
+ igh-stakes data actually gets reconciled\, cleaned\, and trusted across i
+ ndustries — and what cl
+LOCATION:https://lu.ma/9qojmptf
+URL:https://aiweek.boston/schedule/ai-meets-clinical-data-what-actually-b
+ reaks-and-what-automates
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI Meets Clinical Data: What Actually Breaks\, and What Autom
+ ates
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI Meets Clinical Data: What Actually Breaks\, and What Autom
+ ates
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boston-ai-week-closing-party@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261002T180000
+DTEND;TZID=America/New_York:20261002T230000
+SUMMARY:Core Week Closing Party
+DESCRIPTION:Celebrate nine days of building\, shipping\, and connecting a
+ cross MA AI.
+LOCATION:Island Creek Oyster Raw Bar\, 99 Autumn Lane\, Boston\, MA 02210
+URL:https://aiweek.boston/schedule/boston-ai-week-closing-party
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Core Week Closing Party
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Core Week Closing Party
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mit-futurefest-2026-day-4@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261003T100000
+DTEND;TZID=America/New_York:20261003T210000
+SUMMARY:MIT Future Fest — Day 4: Human Futures Unfolding
+DESCRIPTION:The public debut of the MET Warehouse — MIT's new home for de
+ sign and architecture — plus a day on the future of learning\, work\, and
+  being human in the age of AI\, closing with music and a theatrical premi
+ ere.
+LOCATION:MIT Campus\, 77 Massachusetts Avenue\, Cambridge\, MA 02139
+URL:https://aiweek.boston/schedule/mit-futurefest-2026-day-4
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MIT Future Fest — Day 4: Human Futures Unfolding
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MIT Future Fest — Day 4: Human Futures Unfolding
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mit-futurefest-2026-day-5@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261004T100000
+DTEND;TZID=America/New_York:20261004T210000
+SUMMARY:MIT Future Fest — Day 5: Futures Made Together
+DESCRIPTION:The Cambridge Science Carnival returns to the Kendall/MIT Ope
+ n Space — 100+ hands-on STEAM experiences\, from the Robot Petting Zoo to
+  the Oceans zone — a joyful finale to the inaugural Future Fest.
+LOCATION:MIT Campus\, 77 Massachusetts Avenue\, Cambridge\, MA 02139
+URL:https://aiweek.boston/schedule/mit-futurefest-2026-day-5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MIT Future Fest — Day 5: Futures Made Together
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MIT Future Fest — Day 5: Futures Made Together
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-in-action-boston-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261006T090000
+DTEND;TZID=America/New_York:20261006T180000
+SUMMARY:AI in Action
+DESCRIPTION:A full-day conference at the Harvard Club of Boston on turnin
+ g AI into measurable business results.
+LOCATION:Harvard Club of Boston\, 374 Commonwealth Ave\, Boston\, MA
+URL:https://aiweek.boston/schedule/ai-in-action-boston-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI in Action
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AI in Action
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:maven-agi-vip-networking-meetup@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261006T173000
+DTEND;TZID=America/New_York:20261006T200000
+SUMMARY:Maven AGI VIP Networking Meetup
+DESCRIPTION:Maven AGI will host an INVITE ONLY executive-level networking
+ \, dinner\, and happy hour mixer during Boston AI Week 2026\, the region'
+ s flagship AI festival running September 16 – October 28\, with Core Fest
+ ival Week from September 24 – October 2. Anchored in this year's theme\, 
+ "AI in Business and in Li
+LOCATION:Location will be disclosed to confirmed guests.\, Boston\, MA
+URL:https://aiweek.boston/schedule/maven-agi-vip-networking-meetup
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Maven AGI VIP Networking Meetup
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Maven AGI VIP Networking Meetup
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:stop-prompting-start-delegating-build-your-first-ai-agent-live-in-90-minutes@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261010T100000
+DTEND;TZID=America/New_York:20261010T113000
+SUMMARY:Stop Prompting\, Start Delegating: Build Your First AI Agent Live
+  in 90 Minutes
+DESCRIPTION:Most people use AI like an intern they re-onboard every singl
+ e morning. Explain the job\, get the output\, and tomorrow explain it aga
+ in from scratch. That is why it is not saving you any time.\n\nI do not p
+ rompt. I delegate. I run my consulting business with a named team of AI a
+ gents\, each with a defin
+LOCATION:https://us06web.zoom.us/j/82419369940?pwd=baJapxs9hdjhnwrqnXXRDv
+ EtAglcNz.1&jst=5
+URL:https://aiweek.boston/schedule/stop-prompting-start-delegating-build-
+ your-first-ai-agent-live-in-90-minutes
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stop Prompting\, Start Delegating: Build Your First AI Agent 
+ Live in 90 Minutes
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stop Prompting\, Start Delegating: Build Your First AI Agent 
+ Live in 90 Minutes
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:agricultural-ai-two-more-kilograms-per-ton@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261014T100000
+DTEND;TZID=America/New_York:20261014T110000
+SUMMARY:Agricultural AI: Two More Kilograms Per Ton
+DESCRIPTION:In the 2025 Pantaleon harvest\, validated recovery moved from
+  81 to 83 percent\, roughly two additional kilograms of sugar per ton\, w
+ ith record-low lost time.\n\nThe interesting part is not the result but t
+ he sequence that produced it. Before any model was built\, the mill agree
+ d a reference for its own 
+LOCATION:Findability Sciences Office at Workbar Burlington\n100 Summit Dr
+ \, Ste 917\, Burlington\, MA 01880\n3rd floor in the building\, 100 Summi
+ t Dr\, Ste 917\, Burlington\, MA 01880
+URL:https://aiweek.boston/schedule/agricultural-ai-two-more-kilograms-per
+ -ton
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Agricultural AI: Two More Kilograms Per Ton
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Agricultural AI: Two More Kilograms Per Ton
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:authors-innovators-all-day-book-preview-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261022T000000
+DTEND;TZID=America/New_York:20261022T235900
+SUMMARY:Authors & Innovators — All-Day Book Preview
+DESCRIPTION:An all-day book preview with the authors and ideas shaping bu
+ siness\, technology\, and innovation.
+LOCATION:UMass Amherst — Mount Ida Campus\, UMass Amherst Mount Ida Campu
+ s\, Newton\, MA
+URL:https://aiweek.boston/schedule/authors-innovators-all-day-book-previe
+ w-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Authors & Innovators — All-Day Book Preview
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Authors & Innovators — All-Day Book Preview
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:celebrate-hope-chris-hope-day-2026@aiweek.boston
+DTSTAMP:20260820T145756Z
+DTSTART;TZID=America/New_York:20261028T000000
+DTEND;TZID=America/New_York:20261028T235900
+SUMMARY:Celebrate Hope: Join Boston AI Week for Chris Hope Day
+DESCRIPTION:Festival Finale · Community Celebration
+LOCATION:Cambridge City Hall\, 795 Massachusetts Ave\, Cambridge\, MA 021
+ 39
+URL:https://aiweek.boston/schedule/celebrate-hope-chris-hope-day-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Celebrate Hope: Join Boston AI Week for Chris Hope Day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Celebrate Hope: Join Boston AI Week for Chris Hope Day
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
